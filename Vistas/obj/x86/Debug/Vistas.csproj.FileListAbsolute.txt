@@ -1,0 +1,6 @@
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\bin\Debug\Vistas.exe
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\bin\Debug\Vistas.pdb
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\obj\x86\Debug\Vistas.exe
+D:\Materias\LPOO\TP4\SistemaDestockVentas\Vistas\obj\x86\Debug\Vistas.pdb

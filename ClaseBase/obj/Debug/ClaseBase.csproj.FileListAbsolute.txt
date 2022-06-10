@@ -1,0 +1,4 @@
+D:\Materias\LPOO\TP4\SistemaDestockVentas\ClaseBase\bin\Debug\ClaseBase.dll
+D:\Materias\LPOO\TP4\SistemaDestockVentas\ClaseBase\bin\Debug\ClaseBase.pdb
+D:\Materias\LPOO\TP4\SistemaDestockVentas\ClaseBase\obj\Debug\ClaseBase.dll
+D:\Materias\LPOO\TP4\SistemaDestockVentas\ClaseBase\obj\Debug\ClaseBase.pdb
